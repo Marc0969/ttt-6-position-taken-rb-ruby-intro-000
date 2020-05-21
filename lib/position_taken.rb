@@ -1,2 +1,2 @@
-position_taken(board[])
+position_taken(board, index)
 end
